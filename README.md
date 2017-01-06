@@ -11,5 +11,5 @@ Based off of telnet commands listed at http://www.pioneerelectronics.com/StaticF
 
 **SYNTAX**: 
 ```
-python volume.py #
+python set-volume.py #
 ```
