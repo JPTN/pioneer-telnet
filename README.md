@@ -1,4 +1,4 @@
-# pioneer-telnet
+# Volume Control of Pioneer Receivers via Telnet
 Simple loop to control the volume on a Pioneer receiver via telnet.
 
 **DEMO**: https://www.youtube.com/watch?v=93PE8avLq5M&index=10&list=PLOooGQo9IS-Fl3464YiImY_kJGHWdfZVE
