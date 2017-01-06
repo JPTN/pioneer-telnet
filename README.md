@@ -8,6 +8,7 @@ Based off of telnet commands listed at http://www.pioneerelectronics.com/StaticF
 **REQUIREMENTS**:
 - update the IP address
 - adjust the upper limit as needed
+- adjust the scaling, if necessary
 
 **SYNTAX**: 
 ```
